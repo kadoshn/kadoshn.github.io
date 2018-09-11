@@ -1,9 +1,15 @@
-name: "my-website"
+name: "kadoshn.github.io"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Nicole Kadosh"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "My Other Page"
+      href: otherstuff.html 
+output_dir:"."
+  html_document:
+    theme: cosmo
+    highlight: textmate
