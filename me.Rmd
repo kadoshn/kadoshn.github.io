@@ -14,27 +14,28 @@ title: "Interests"
 <ul>
 <li>Traveling</li>
 </ul>
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2186.JPG" style="background-color:black; width:300px; float:left; "width =  /></p>
 
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2187.JPG" style="background-color:black; width:300px; float:middle;" width =  /></p>
+<img src="IMG_2186.JPG" style="background-color:black; width:300px; float:left; "width =  /></p>
 
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2189.jpeg" style="background-color:black; width:300px; float:left;" width =  /></p>
+<img src="IMG_2187.JPG" style="background-color:black; width:300px; float:middle;" width =  /></p>
 
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2188.jpeg" style="background-color:black; width:300px;float:middle;" width =  /></p>
+<img src="IMG_2189.jpeg" style="background-color:black; width:300px; float:left;" width =  /></p>
+
+<img src="IMG_2188.jpeg" style="background-color:black; width:300px;float:middle;" width =  /></p>
 
 
 <ul>
 <li>Hiking</li>
 </ul>
 
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2191.jpeg" style="background-color:black; width:400px; float:middle;" width =  /></p>
+<img src="IMG_2191.jpeg" style="background-color:black; width:400px; float:middle;" width =  /></p>
 
 <ul>
 <li>Beach</li>
 <li>GO PATSS!!</li>
 </ul>
 
-<img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2174.jpeg" style="background-color:black; width:300px; float:middle;" width =  /></p>
+<img src="IMG_2174.jpeg" style="background-color:black; width:300px; float:middle;" width =  /></p>
 
 <ul>
 <li>Pilates</li>

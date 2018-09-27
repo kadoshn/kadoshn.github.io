@@ -3,11 +3,11 @@ title: "Projects"
 ---
 Below are a couple projects I have done, while at Appalachian State University. 
 
-The first project is answering the question "Does NFL Combine Data Predict Rushing Performance?" I used multiple decision trees and analyzed all the outcomes to determine if the NFL combine is a good predictor. In the ended we concluded that it is, however, certain tests of the combine are better predictors than others.
+The first project is answering the question "Does NFL Combine Data Predict Rushing Performance?" I used multiple decision trees and analyzed all the outcomes to determine if the NFL combine is a good predictor. In the ended we concluded that it might not be the best predictor, however, certain tests of the combine are better predictors than others. It could be that its not the best predictor because we have such a small data frame.
 </iframe>
 
 <hr>
-<iframe src ="RushingProject1.pdf" width= "100%" height="700px">
+<iframe src ="NFL Project Final.pdf" width= "100%" height="700px">
 
 </iframe>
 
