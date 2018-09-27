@@ -1,5 +1,39 @@
 ---
-title: "About This Website"
+title: "Projects"
 ---
+Below are a couple projects I have done, while at Appalachian State University. 
 
-More about this website.
+The first project is answering the question "Does NFL Combine Data Predict Rushing Performance?" I used multiple decision trees and analyzed all the outcomes to determine if the NFL combine is a good predictor. In the ended we concluded that it is, however, certain tests of the combine are better predictors than others.
+</iframe>
+
+<hr>
+<iframe src ="RushingProject1.pdf" width= "100%" height="700px">
+
+</iframe>
+
+<hr>
+
+</iframe>
+
+My next project is answering the question "Who is the better player, Lebron James or Michael Jordan?" Despite my personal opinion Michael Jordan through our data anylsis came out to be the better player. 
+
+<hr>
+<iframe src ="Project_1_Sports_Analytics.pdf" width= "100%" height="700px">
+
+</iframe>
+
+<hr>
+
+Finally, this project is analyzing if there is a correlation between a students study hours and his or her GPA. We conducted surveys and analyzed all the data to determine there is a relation between the two.
+
+<hr>
+
+</iframe>
+
+<hr>
+<iframe src ="StatsPaper!!.pdf" width= "100%" height="700px">
+
+</iframe>
+
+<hr>
+

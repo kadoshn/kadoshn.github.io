@@ -3,13 +3,20 @@ output_dir: "."
 navbar:
   title: "Nicole Kadosh"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Interests"
+      href: me.html
     - text: "Resume"
       href: resume.html 
+    - text: "Projects"
+      href: about.html
+right:
+    - text: ""
+      icon: glyphicon-info-sign
+      href: about.html
+    - text: ""
+      icon: fa-github fa-lg
+      href: https://github.com/kadoshn
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: flatly
+    highlight: espresso
