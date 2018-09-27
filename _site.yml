@@ -15,7 +15,7 @@ right:
       href: about.html
     - text: ""
       icon: fa-github fa-lg
-      href: https://github.com/kadoshn
+      href: https://github.com/kadoshn/kadoshn.github.io
 output:
   html_document:
     theme: flatly
