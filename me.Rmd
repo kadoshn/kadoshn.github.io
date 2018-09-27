@@ -8,12 +8,12 @@ title: "Interests"
 <li>Biology</li>
 <li>Statistics</li>
 <li>Data Analytics</li>
-<ul>
+</ul>
 
 ## Fun
 <ul>
 <li>Traveling</li>
-<ul>
+</ul>
 <img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2186.JPG" style="background-color:black; width:300px; float:left; "width =  /></p>
 
 <img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2187.JPG" style="background-color:black; width:300px; float:middle;" width =  /></p>
@@ -25,20 +25,16 @@ title: "Interests"
 
 <ul>
 <li>Hiking</li>
-<ul>
+</ul>
 
 <img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2191.jpeg" style="background-color:black; width:400px; float:middle;" width =  /></p>
 
-
-
 <ul>
 <li>Beach</li>
-<li>GO PATRIOTS!!</li>
-<ul>
-
+<li>GO PATSS!!</li>
+</ul>
 
 <img src="https://mathr.math.appstate.edu/s/a1123f65932a24297a22d/files/GitHub/kadoshn.github.io/IMG_2174.jpeg" style="background-color:black; width:300px; float:middle;" width =  /></p>
-
 
 <ul>
 <li>Pilates</li>
